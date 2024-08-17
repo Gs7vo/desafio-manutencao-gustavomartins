@@ -1,3 +1,4 @@
+/* Estilo geral do corpo da página */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -5,13 +6,15 @@ body {
     padding: 0;
 }
 
+/* Estilização do cabeçalho */
 header {
-    background: #333;
-    color: #fff;
+    background: #333; /* Cor de fundo do cabeçalho */
+    color: #fff; /* Cor do texto no cabeçalho */
     padding: 10px 0;
     text-align: center;
 }
 
+/* Estilização da lista de navegação */
 nav ul {
     list-style: none;
     padding: 0;
@@ -20,25 +23,29 @@ nav ul {
     flex-wrap: wrap;
 }
 
+/* Estilização dos itens da lista de navegação */
 nav ul li {
     margin: 0 10px;
 }
 
+/* Estilizaação ds links de navegação */
 nav ul li a {
     color: #fff;
     text-decoration: none;
 }
 
 nav ul li a:hover {
-    color: #ccc;
+    color: #ccc; /* Cor dos links ao passar o mouse */
 }
 
+/* Estilização das seções da página */
 section {
     padding: 20px;
     margin: 10px;
-    background: #f4f4f4; /* Define a mesma cor de fundo para todas as seções */
+    background: #f4f4f4; /* Cor de fundo das seções */
 }
 
+/* Estilização dos botões */
 button {
     padding: 10px 20px;
     background: #333;
@@ -48,20 +55,23 @@ button {
 }
 
 button:hover {
-    background: #555;
+    background: #555; /* Cor de fundo dos botões ao passar o mouse */
 }
 
+/* Estilização dos rótulos dos campos do formulário */
 form label {
     display: block;
     margin: 10px 0 5px;
 }
 
+/* Estilização dos campos de entrada do formulário */
 form input, form textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
 }
 
+/* Estilização do rodapé */
 footer {
     background: #333;
     color: #fff;
@@ -69,6 +79,7 @@ footer {
     padding: 10px 0;
 }
 
+/* Definição do estilo responsivo para telas menores */
 @media (max-width: 1024px) {
     header, section, footer {
         padding: 10px;
