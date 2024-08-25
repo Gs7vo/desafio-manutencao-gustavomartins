@@ -4,7 +4,7 @@
 
 Este projeto é uma landing page para a XPTO, uma empresa fictícia especializada em soluções de compra e venda de criptomoedas como Bitcoin e Ethereum. A página foi construída com o objetivo de ser responsiva, acessível e de fácil manutenção. O layout foi projetado para funcionar bem em diversos dispositivos, como smartphones e tablets, garantindo uma experiência de usuário otimizada.
 
-Este projeto faz parte do **programa Afro Digital da [Télos Conecta](https://www.telosconecta.com)**, com mentoria de **Vinícius Penha**.
+Este projeto faz parte do **programa Afro Digital da [Télos Conecta](https://www.telosconecta.com)**, com mentoria de **[Vinícius Penha](https://www.linkedin.com/in/vinicius12)**.
 
 ## Funcionalidades
 
@@ -43,4 +43,4 @@ Após o feedback recebido, foram implementadas as seguintes melhorias:
 **README.md:** Este arquivo, explicando detalhes sobre o projeto.
 
 ## Autor
-Desenvolvido por **Gustavo Martins** como parte do programa **Afro Digital da Télos**, com mentoria de **Vinícius Penha**. Você pode entrar em contato comigo através do LinkedIn.
+Desenvolvido por **Gustavo Martins** como parte do programa **Afro Digital da Télos**, com mentoria de **Vinícius Penha**. Você pode entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-martins-1b031929b/).
