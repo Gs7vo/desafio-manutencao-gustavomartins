@@ -41,5 +41,6 @@ Após o feedback recebido, foram implementadas as seguintes melhorias:
 **styles.css:** Arquivo de estilização para o layout e design da página.
 **index.js:** Contém a lógica JavaScript para as interações com o usuário.
 **README.md:** Este arquivo, explicando detalhes sobre o projeto.
+
 ## Autor
 Desenvolvido por **Gustavo Martins** como parte do programa **Afro Digital da Télos**, com mentoria de **Vinícius Penha**. Você pode entrar em contato comigo através do LinkedIn.
